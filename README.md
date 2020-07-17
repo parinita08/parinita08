@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parinita Vedantam</h1>
 <h3 align="center">Not a robot! 🤖</h3>
+
 - 🔭 I’m currently working on **React, CSS, ML**
 
 - 👯 I’m looking to collaborate on **Blender, React, Lens Studio**
