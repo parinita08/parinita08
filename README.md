@@ -10,7 +10,7 @@
 - 💬 Ask me about **Anything that I know ✨**
 
 - 📫 How to reach me **vedantampari@gmail.com**
-
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=parinita08&show_icons=true alt=parinita08 /> </p>
 
 
 <p align="center">
