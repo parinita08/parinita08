@@ -1,5 +1,5 @@
 <h1 align="center">Hi people👋, I'm Parinita Vedantam</h1>
-<h3 align="center">A fourth year computer science engineering student with interests in AR, 3D modelling, Machine Learning, Data Analysis and Web Application Development and learning many more undiscovered things.</h3>
+<h3 align="center">A fourth year computer science engineering student with interests in AR, 3D modelling, Machine Learning, Data Analysis and Web Design & Development and learning many more undiscovered things.</h3>
 
 - 🔭 I’m currently working on **React, CSS, ML**
 
