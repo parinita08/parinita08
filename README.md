@@ -1,11 +1,11 @@
 <h1 align="center">Hi people👋, I'm Parinita Vedantam</h1>
 <h3 align="center">A graduate student at Arizona State University with interests in AR, 3D modelling, Machine Learning, Data Analysis and Web Design & Development and learning many more undiscovered things.</h3>
 
-- 🔭 I’m currently working on **React, CSS, ML**
+- 🔭 I’m currently working on **React, Flutter, ML**
 
 - 👯 I’m looking to collaborate on **Blender, React, Lens Studio**
 
-- 🤔 I’m looking for help with **React**
+- 🤔 I’m looking for help with **Flutter**
 
 - 💬 Ask me about **Anything that I know ✨**
 
